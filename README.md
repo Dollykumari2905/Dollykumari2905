@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Dolly Kumari
+A passionate and motivated developer with strong fundamentals in programming, problem-solving, and building clean, functional applications. I enjoy learning new technologies and improving my development skills every day.
 
-<!--
-**Dollykumari2905/Dollykumari2905** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills & Technologies
+
+### 💻 Programming Languages
+- Java  
+- C++  
+- JavaScript  
+- SQL  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript (Basics to Intermediate)
+
+### ⚙️ Core CS Concepts
+- Object-Oriented Programming (OOPs)
+- Data Structures & Algorithms (DSA)
+
+
+## 📌 What I Do
+- Build responsive and clean web pages  
+- Solve DSA problems to strengthen logic  
+- Develop small projects in Java & C++  
+- Use SQL for database queries and operations  
+
+
+
+## 🎯 Current Focus
+- Improving advanced DSA  
+- Building more web development projects  
+- Learning frameworks for frontend & backend  
+
+
+
+## 📬 Connect With Me
+- **LinkedIn:** https://www.linkedin.com/in/dolly-kumari-053413264  
+- **Email:** dolly7957kumari@gmail.com  
+
+
+
+⭐ *Thanks for visiting my GitHub! Explore my repositories to see my work.*
