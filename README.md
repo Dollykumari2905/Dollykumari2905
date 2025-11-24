@@ -1,4 +1,30 @@
+💫 Hi 👋, I'm Dolly Kumari
 
+A passionate Web Developer Enthusiast | Aspiring Software Engineer from India
+
+📧 Email Me: dolly7957kumari@gmail.com
+
+📱 Phone: 6203889875
+
+🔭 I’m currently working on:
+
+Building unique and intelligent AI Chatbots with Node.js backend and modern UI.
+
+🌱 I’m currently learning : Database Normalization (BCNF, 3NF), Compilers, and C++ OOP concepts.
+
+👯 I’m looking to collaborate on : Projects Full-Stack Development, and Web Applications.
+
+🤔 I’m looking for help with : Enhancing my knowledge in backend architecture, API design, and AI model integration.
+
+💬 Ask me about : Web App Development, SQL projects, DBMS, Compilers, and Resume Building.
+
+📫 How to reach me : 📧 dolly7957kumari@gmail.com
+
+🔗 LinkedIn: www.linkedin.com/in/dolly-kumari-053413264
+
+😄 Pronouns : She/Her
+
+⚡ Fun fact : I turn complex topics into simple explanations—and I love solving real-world problems with tech!
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dolly-kumari-053413264) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/31923588/dolly-kumari) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dolly7957kumari@gmail.com) 
 
